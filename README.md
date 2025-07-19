@@ -124,4 +124,4 @@ Feel free to open issues or submit pull requests.
 
 ## Contact
 
-\[Your contact information\]
+gmail: umyashinderu@gmail.com
