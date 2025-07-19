@@ -1,0 +1,10 @@
+{
+    "buildpath": "./build/",
+    "includepaths": [
+        "./include/"
+    ],
+    "name": "filio",
+    "srcpath": "./src/filio.cpp",
+    "type": "shared",
+    "version": "win.dll"
+}
